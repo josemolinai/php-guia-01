@@ -1,4 +1,4 @@
-[Índice](readme.md) / [Anterior](05_nombres_de_constantes.md) / [Siguiente](05_nombres_de_constantes.md)
+[Índice](readme.md) / [Anterior](05_nombres_de_constantes.md) / [Siguiente](ejercicio_01.md)
 # Alcance de las Constantes en PHP
 
 El alcance de una constante es el script en el que está definida. Una constante puede definirse, por lo tanto, en una primera sección de código PHP y utilizarse en otra parte del código PHP del mismo script
@@ -29,4 +29,4 @@ echo ANIMALES[1]; // muestra "gato"
 
 ?>
 ```
-Ecuentra el archivo de ejemplo en [./ejemplos/ejemplo_03.php](01-introduccion/ejemplos/ejemplo_03.php)
+Ecuentra el archivo de ejemplo en [./ejemplos/ejemplo_03.php](ejemplos/ejemplo_03.php)

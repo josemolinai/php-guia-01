@@ -28,4 +28,4 @@ echo ANIMALES[1]; // muestra "gato"
 
 ?>
 ```
-Ecuentra el archivo de ejemplo en [./ejemplos/ejemplo_02.php](01-introduccion/ejemplos/ejemplo_02.php)
+Ecuentra el archivo de ejemplo en [./ejemplos/ejemplo_02.php](ejemplos/ejemplo_02.php)

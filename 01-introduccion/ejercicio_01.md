@@ -1,3 +1,4 @@
+[Índice](readme.md) / [Anterior](06_alcance_de_constante.md) / [Siguiente](ejercicio_01.md)
 # Ejercicio 1 - Uso de Constantes
 
 - Elabora un script php que defina el valor de la variable PI (3,1416)
