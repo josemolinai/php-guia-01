@@ -1,4 +1,4 @@
-[Índice](../readme.md) / [Anterior](../readme.md) / [Siguiente](ejercicio_02.md)
+[Índice](../readme.md) / [Anterior](ejercicio_01.md) / [Siguiente](ejercicio_02.md)
 # Ejercicio - Uso de Constantes
 
 - Elabora un script php que defina y muestre el valor de la variable PI (3,1416)

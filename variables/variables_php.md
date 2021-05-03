@@ -1,4 +1,4 @@
-[Índice](../readme.md) / [Anterior](../constantes/alcance_de_constante.md) / [Siguiente](ejercicio_01.md)
+[Índice](../readme.md) / [Anterior](../constantes/alcance_de_constante.md)
 # Variables en PHP 
 
 **Una variable es una zona de memoria identificada por un nombre que contiene un valor legible o modificable en la aplicación.**
