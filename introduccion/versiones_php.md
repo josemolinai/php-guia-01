@@ -1,4 +1,4 @@
-[Índice](readme.md) / [Anterior](02_en_que_se_usa_php.md) / [Siguiente](04_contantes_php.md)
+[Índice](../readme.md) / [Anterior](en_que_se_usa_php.md) / [Siguiente](../marcas/marcas_en_php.md)
 # ¿Cuales son las distintas versiones de PHP y en que se diferencian?
 
 PHP ha evolucionado desde hace más de 20 años. En la [página de versiones ya no soportadas](https://www.php.net/eol.php) la versión más antigua es la 3.0 y en la [página de versiones con soporte](https://www.php.net/supported-versions.php) la última versión es la 8.0.

@@ -1,4 +1,4 @@
-[Índice](readme.md) / [Anterior](01_que_es_php.md) / [Siguiente](03_versiones_php.md)
+[Índice](../readme.md) / [Anterior](que_es_php.md) / [Siguiente](versiones_php.md)
 # ¿En que se usa PHP?
 
 Ejemplos de aplicaciones web que usan PHP son

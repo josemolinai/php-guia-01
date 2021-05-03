@@ -1,4 +1,4 @@
-[Índice](readme.md) / [Anterior](03_versiones_php.md) / [Siguiente](05_nombres_de_constantes.md)
+[Índice](../readme.md) / [Anterior](../comentarios/comentarios_php.md) / [Siguiente](nombres_de_constantes.md)
 # Constantes en PHP
 La función **define** o la palabra clave **const** (desde la versión 5.3) permiten definir una constante.
 

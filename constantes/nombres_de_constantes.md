@@ -1,4 +1,4 @@
-[Índice](readme.md) / [Anterior](04_contantes_php.md) / [Siguiente](06_alcance_de_constante.md)
+[Índice](../readme.md) / [Anterior](constantes_php.md) / [Siguiente](alcance_de_constante.md)
 ## Restricciones para los nombres de constantes
 El nombre de una constante no debe comenzar por **$**, ya que este prefijo se reserva para los nombres de las variables.
 
