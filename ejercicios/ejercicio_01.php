@@ -1,12 +1,3 @@
-[Índice](../readme.md) / [Anterior](ejercicio_01.md) / [Siguiente](ejercicio_02.md)
-# Ejercicio - Uso de Constantes
-
-- Utilizando el siguiente código PHP realiza el ejercicio que esta descrito en sus comentarios
-- Publica la página una vez que la hayas modificado y observa los resultados
-- ¿Al visualizarla en un navegador se muestra el valor de la constantes NUMEROPI?
-
-
-```php
 <!DOCTYPE html>
 <html lang="es">
     <head>
@@ -63,4 +54,3 @@
 
     </body>
 </html>
-```

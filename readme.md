@@ -16,5 +16,7 @@
     1. [Constantes en PHP](constantes/constantes_php.md)
     2. [Nombres de Constantes](constantes/nombres_de_constantes.md)
     3. [Alcance de las Constantes](constantes/alcance_de_constante.md)
+    4. [Ejercicio usando constantes](ejercicios/ejercicio_01.md)
+    4. [Ejercicio usando constantes en un formulario](ejercicios/ejercicio_02.md)
 7. Variables en PHP
     1. [Variables en PHP](variables/variables_php.md)

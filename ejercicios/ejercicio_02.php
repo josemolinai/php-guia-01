@@ -1,21 +1,13 @@
-[Índice](../readme.md) / [Anterior](../readme.md) / [Siguiente](ejercicio_02.md)
-# Ejercicio - Formulario PHP
-
-- Utilizando el siguiente código PHP realiza el ejercicio que esta descrito en sus comentarios
-- Publica la página una vez que la hayas modificado y observa los resultados
-- ¿Se logra visualizar de forma correcta el formulario tras los cambios que has realizado?
-
-```php
 <!doctype html>
 <html lang="es">
 
 <head>
   <meta charset="utf-8">
-  <title></title>
+  <title>Formulario de inicio de Sesión</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="assets/css/bootstrap.css">
+  <link rel="stylesheet" href="../ejemplos/assets/css/bootstrap.css">
 
 </head>
 
@@ -29,8 +21,8 @@
 ?>
 
   <div class="container">
-   <h1><?php echo '¿Formulario de inicio de Sesión'?> </h1> 
-  <form name="formLogin" method="post" action="procesar_ejercicio_02.php" >
+   <h1><?php echo 'Formulario de inicio de Sesión'?> </h1> 
+  <form name="formLogin" method="post" action="procesar_ejercicio_03.php" >
     <div class="form-group">
 
       <!--Un ejemplo de como escribir el valor de una etiqueta HTML usando una constante PHP-->
@@ -47,7 +39,6 @@
     <button type="submit" class="btn btn-primary">Iniciar</button>
   </form>
 </div>
-<script src="assets/js/bootstrap.js" ></script>
+<script src="../ejemplos/assets/js/bootstrap.js" ></script>
 </body>
 </html>
-```

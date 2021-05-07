@@ -1,3 +1,13 @@
+[Índice](../readme.md) / [Anterior](ejercicio_02.md) / [Siguiente](../readme.md)
+# Ejercicio - Formulario PHP
+
+1. Revisa el formulario en [procesar_ejercicio_03.php](../ejercicios/procesar_ejercicio_03.php) y realiza las siguientes acciones:
+
+- Agrega el código PHP necesario para que se cargue con la contraseña en el campo de contraseña
+- Publica la página una vez que la hayas modificado y observa los resultados
+- ¿Se logra visualizar de forma correcta el formulario tras los cambios que has realizado?
+
+```php
 <!doctype html>
 <html lang="es">
 
@@ -7,7 +17,7 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="assets/css/bootstrap.css">
+  <link rel="stylesheet" href="../ejemplos/assets/css/bootstrap.css">
 
 </head>
 
@@ -51,6 +61,8 @@ function test_input($data) {
     </div>
   </form>
 </div>
-<script src="assets/js/bootstrap.js" ></script>
+<script src="../ejemplos/assets/js/bootstrap.js" ></script>
 </body>
 </html>
+
+```
