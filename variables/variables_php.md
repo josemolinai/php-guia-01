@@ -11,7 +11,7 @@ En PHP, las variables están identificadas por el prefijo __$__ seguido de un no
 
 El nombre de las variables tiene en cuenta las _minúsculas/mayúsculas_: **$nombre** y **$Nombre** son vistas por PHP como dos variables diferentes. 
 
-Algunas recomendacioness:
+Algunas recomendaciones:
 
 - Todo en minúsculas **$nombre**;
 - Primera letra en mayúscula y el resto en minúscula **$Nombre**;

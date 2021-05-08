@@ -1,7 +1,7 @@
 [Índice](../readme.md) / [Anterior](../readme.md) / [Siguiente](../separador-intrucciones/separador_intrucciones_php.md)
 
 # Función echo en PHP
- La función on instrucción **echo** permite mostrar una o varias cadenas y, por lo tanto, incluir texto en la página HTML enviada al explorador.
+ La función o instrucción **echo** permite mostrar una o varias cadenas y, por lo tanto, incluir texto en la página HTML enviada al explorador.
 
 
  ```php
@@ -27,8 +27,9 @@ En este ejemplo examinado la primera sintaxis solo recibe un parámetro de entra
 ## Saltos de línea
 
 No hay salto de línea automático en el resultado de la ejecución del código PHP. Si es necesario, hay que insertar la etiqueta HTML 
- ```html
-<br/>
+
+ ```php
+    <?php echo '<br/>'?>
 ```
 que fuerza el salto de línea en la página HTML final.
 

@@ -1,4 +1,4 @@
-[Índice](../readme.md) / [Anterior](../separador-intrucciones/separador_intrucciones_php.md) / [Siguiente](../constantes/constantes_php.md)
+[Índice](../readme.md) / [Anterior](../separador-intrucciones/separador_intrucciones_php.md) / [Siguiente](../tipo-datos/tipo_datos_disponibles.md)
 
 # Comentarios en PHP
 
