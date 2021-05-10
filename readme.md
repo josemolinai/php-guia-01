@@ -6,8 +6,10 @@
     1. [¿Cuales son las distintas versiones de PHP y en que se diferencian?](introduccion/versiones_php.md)
 1. Marcas en PHP
     1. [Marcas en PHP](marcas/marcas_en_php.md)
-1. Función echo
-    1. [Función echo](funcion-echo/funcion_echo_en_php.md)
+1. Funciones
+    1. [Función echo](funciones/funcion_echo_en_php.md)
+    1. [Función empty](funciones/funcion_empty.md)
+    1. [Funciones Definidas por el Usuario](funciones/funciones_definidas_por_usuario.md)
 1. Separador de Instrucciones
     1. [Separador de Instrucciones](separador-intrucciones/separador_intrucciones_php.md)
 1. Comentarios en PHP

@@ -1,4 +1,4 @@
-[Índice](../readme.md) / [Anterior](../readme.md) / [Siguiente](../separador-intrucciones/separador_intrucciones_php.md)
+[Índice](../readme.md) / [Anterior](../readme.md) / [Siguiente](../funciones/funciones_definidas_por_usuario.md)
 
 # Función echo en PHP
  La función o instrucción **echo** permite mostrar una o varias cadenas y, por lo tanto, incluir texto en la página HTML enviada al explorador.

@@ -1,4 +1,4 @@
-[Índice](../readme.md) / [Anterior](../introduccion/versiones_php.md) / [Siguiente](../funcion-echo/funcion_echo_en_php.md)
+[Índice](../readme.md) / [Anterior](../introduccion/versiones_php.md) / [Siguiente](../funciones/funcion_echo_en_php.md)
 
 # Marcas de PHP
 El código PHP se incluye en la página HTML delimitado por marcas o etiquetas (tags).
