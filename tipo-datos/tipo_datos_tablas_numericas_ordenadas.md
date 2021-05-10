@@ -9,4 +9,22 @@
     | 2             | Dos      |
     | 3             | Tres     |
 
+```php
+<?php // Tipos de datos Tabla numérica ?>
+<?php 
+    $array = array(
+        0 => "Cero",
+        1 => "Uno",
+        2 => "Dos",
+        3 => "Tres",
+    );
 
+// a partir de PHP 5.4
+    $array = [
+        0 => "Cero",
+        1 => "Uno",
+        2 => "Dos",
+        3 => "Tres",
+    ];
+?>
+```

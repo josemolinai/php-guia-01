@@ -7,7 +7,7 @@ El tipo entero (integer) permite almacenar un número entero en 32 bits, o bien 
 En caso de rebasamiento de capacidad en un cálculo, el resultado es automáticamente convertido en número de coma flotante.
 
 ```php
-<?php // Tipos de de datos Escalares ?>
+<?php // Tipos de datos Escalares ?>
 <?php
 //Números enteros
 echo  5;

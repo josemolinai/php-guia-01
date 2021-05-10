@@ -9,7 +9,7 @@
  En caso de conversión de un número de coma flotante en entero, el número es truncado (no redondeado) al entero inferior (1.9 da 1, por ejemplo). En caso de rebasamiento de capacidad, no se muestra ningún mensaje, pero el valor final es indefinido.
 
 ```php
-<?php // Tipos de de datos Escalares ?>
+<?php // Tipos de datos Escalares ?>
 <?php 
 // Números de coma flotante
 echo 3.1416;

@@ -1,4 +1,4 @@
-<?php // Tipos de de datos Escalares ?>
+<?php // Tipos de datos Escalares ?>
 
 <?php
 //Números enteros
@@ -16,4 +16,7 @@ echo  'Esto es una cadena de caracteres';
 
 // Escapando las comillas simples y dobles
 echo  '\'Esto\' es una \"cadena de caracteres\" escapada';
+
+// Escapando las barras invertidas
+echo  '\\\'Esto\\\' es una \\\"cadena de caracteres\\\"';
 ?>
