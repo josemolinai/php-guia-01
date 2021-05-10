@@ -1,6 +1,6 @@
 [Índice](../readme.md) / [Anterior](../readme.md) / [Siguiente](../tipo-datos/tipo_datos_enteros.md)
 
-# Tipos disponibles
+# Tipos de Datos Disponibles
 
 PHP permite cuatro tipos de datos escalares (que sólo pueden contener un valor), dos tipos compuestos (que pueden contener varios valores) y dos tipos especiales:
 

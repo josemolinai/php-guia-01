@@ -1,4 +1,4 @@
-[Índice](../readme.md) / [Anterior](tipo_datos_enteros.md) / [Siguiente](../tipo-datos/tipo_datos_cadena.md)
+[Índice](../readme.md) / [Anterior](tipo_datos_enteros.md) / [Siguiente](../tipo-datos/tipo_datos_cadenas.md)
 
  # Número de coma flotante
  

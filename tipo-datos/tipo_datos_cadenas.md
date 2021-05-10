@@ -1,4 +1,4 @@
-[Índice](../readme.md) / [Anterior](tipo_datos_disponibles.md) / [Siguiente](../constantes/constantes_php.md)
+[Índice](../readme.md) / [Anterior](tipo_datos_disponibles.md) / [Siguiente](../tipo-datos/tipos_datos_especiales.md)
 
 # Cadena de caracteres
 
